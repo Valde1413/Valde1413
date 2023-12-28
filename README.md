@@ -1,4 +1,4 @@
-[![MasterHead](http://dostih.mx/wp-content/uploads/2023/12/VALDEMAR.png)](https://rishavchanda.io)
+[![MasterHead](http://dostih.mx/wp-content/uploads/2023/12/VALDEMAR.png)]
 <h1 align="center">Hi 👋, I'm Valdemar</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 <p align="center">
