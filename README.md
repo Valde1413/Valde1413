@@ -15,14 +15,12 @@
 
 - 👨‍💻 All of my projects are available at [dostih.mx](dostih.mx)
 
-- 💬 Ask me about **Java,React**
+- 💬 Ask me about ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 - 📫 How to reach me **valde1413@gmail.com**
 
 - ⚡ Fun fact **Love Sports**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 
 <h3 align="left">Connect with me:</h3>
