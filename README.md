@@ -1,5 +1,3 @@
-![MasterHead](http://dostih.mx/wp-content/uploads/2023/12/Valdemar2.png)
-
 <h1 align="center">Hi 👋, I'm Valdemar Gómez</h1>
 
 <h3 align="center">
@@ -69,8 +67,6 @@ to reduce manual work, improve decision-making and create measurable business im
 
 - 💼 LinkedIn: https://linkedin.com/in/valdemargv
 - 📧 Email: valde1413@gmail.com
-- 🧠 LeetCode: https://leetcode.com/valde1413
-
 ---
 
 ### 📊 GitHub Activity
